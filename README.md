@@ -23,9 +23,11 @@ Professional Developer with **6 years of experience**. Specialized in building a
 
 ---
 
-### 📊 Development Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cristofer-AI-Labs&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristofer-AI-Labs&layout=compact&theme=dark&hide_border=true)
+### 📊 My GitHub Stats
+
+![Cristofer's Stats](https://github-readme-stats.vercel.app/api?username=Cristofer-AI-Labs&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristofer-AI-Labs&layout=compact&theme=tokyonight)
 
 ---
 
